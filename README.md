@@ -1,3 +1,6 @@
 Projeto Iniciado para fazer um jogo em godot.
+Ideia originais minhas.
 
-Ideia e artes originais minhas.
+
+Startet this project to make a godot game.
+Original ideas.
